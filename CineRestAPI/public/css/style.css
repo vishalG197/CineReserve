@@ -13,9 +13,10 @@ html {
 
 body {
    min-height: 100vh;
-   background-color: #000;
+   background-color: #e8272dfe;
    color: whitesmoke;
    display: grid;
    place-content: center;
    padding: 1rem;
+   text-align: center;
 }
